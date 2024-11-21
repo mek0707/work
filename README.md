@@ -1,6 +1,5 @@
 # work
 สามารถก็อปปี้โค้ดนี้ เอาไปใส่ใน https://pdfmake.org/playground.html
-
 var dd = {
     content: [
         { text: 'Made By Wongsatorn Naruroodganawaree', bold: true, fontSize: 12, alignment: 'center' , width: '*', noWrap: true, },
